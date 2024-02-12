@@ -31,3 +31,9 @@ Dublin](https://www.tcd.ie).
 * [pdf slides (pt1)](/handouts/handout-04-xforms-pt1.pdf)
 * [pdf slides (pt2)](/handouts/handout-04-xforms-pt2.pdf)
 
+
+
+## Tutorials
+* [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
+* [tutorial 1 Q1 helper on z-transform (pdf)](/tutorials/tutorial-01-helper.pdf)
+
