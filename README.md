@@ -51,6 +51,10 @@ Dublin](https://www.tcd.ie).
 
 * [pdf slides](/handouts/handout-09-motion.pdf)
 
+## 10 - MPEG-2
+
+* [pdf slides](/handouts/handout-10-mpeg2.pdf)
+
 ## Tutorials
 * [tutorial 1 (pdf)](/tutorials/tutorial-01.pdf)
 * [tutorial 1 Q1 helper on z-transform (pdf)](/tutorials/tutorial-01-helper.pdf)
